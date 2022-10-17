@@ -1,0 +1,9 @@
+Dry cough:
+
+standard params: using mean value,
+
+then from current value get the boolean value.
+
+state as standard user definition.
+
+

@@ -1,0 +1,7 @@
+diahorrea ->  true
+
+cough -> true
+
+pain -> true
+
+difficulty in breathing -> true

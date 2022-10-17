@@ -1,0 +1,5 @@
+1. American medical data (Training data)
+2. Data sorting (Parcentile machine learning method)
+3. Data filter (Competitive logical expression [Mean Median Mode machine learning method (range)])
+4. Is fever? Which type? Possibility of that type of fever and return as system output as pacentese.
+5. Show the result on android application

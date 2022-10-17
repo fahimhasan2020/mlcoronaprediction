@@ -1,0 +1,19 @@
+1. Result graphs
+2. Model Lists
+Is fever -> linear regression analysis (pains, tiredness)
+Which type-> multiple regression analysis (cough, tired,difficulty breathing,diarrhea,aches,chest pain)
+Parcentese-> multiple regression analysis (cough, tired,difficulty breathing,diarrhea,aches,chest pain)
+3. Taste dataset
+A random patient body parameters which we want to predict
+4. Model Methods
+Total list of methods
+5. Accuracy list on multiple methods
+80% ---> 100 kahini
+6. AppList
+
+android (java)
+web application -> node js
+database-> mongodb
+
+for graphical representation
+python web editorer madhome (https://www.w3schools.com/python/trypython.asp?filename=demo_ml_polynomial_regr)
